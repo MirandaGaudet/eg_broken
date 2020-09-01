@@ -50,6 +50,10 @@ header h1 {
   padding: 0 auto;
 }
 .small {
+  text-transform: uppercase;
+  font-family: 'lato', sans-serif;
+  font-weight: 900;
+  font-size: smaller;
   margin-top: 1em;
 }
 /*-- Article Styles--*/
