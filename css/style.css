@@ -69,6 +69,9 @@ article figure {
   margin: auto;
 }
 article figcaption {
+font-size:smaller;
+  font-weight:lighter;
+  font-family:fantasy;
 }
 .pagination {
   margin-top: 2em;
