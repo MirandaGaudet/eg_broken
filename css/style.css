@@ -36,6 +36,7 @@ nav a.active {
 }
 /*-- Hero Unit Styles--*/
 header {
+  margin: auto
   width: 510px;
   margin-top: 2em;
   margin-bottom: 2em;
@@ -53,6 +54,7 @@ header h1 {
 }
 /*-- Article Styles--*/
 article {
+  margin: auto
   width: 768px;
   font-size: 18px;
   line-height: 1.3;
