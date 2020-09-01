@@ -17,7 +17,10 @@ footer {
 }
 /*-- Main Menu Styles--*/
 nav ul {
-  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: inherit;
   padding: 1em;
 }
 nav a:link, nav a:visited {
